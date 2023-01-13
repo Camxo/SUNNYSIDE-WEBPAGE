@@ -1,0 +1,288 @@
+@media (max-width: 2200px){
+    header{
+    background-image: url(./images/image-header.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    height: 100vh;
+    max-width: 100vw;
+
+
+}
+#tax{
+    
+    font-size: 50px;
+    color: white;
+    letter-spacing: 9px;
+    font-weight: bolder;
+    word-spacing: -1.5px;
+    font-family: 'Fraunces', serif;
+        
+}
+#kax{
+  position: absolute;
+  top: 20%;  
+  right: 29%;
+    
+}
+#arrow{
+    position: absolute;
+  top: 45%;  
+  right: 49%;
+}
+
+#gat{
+    
+    font-size: 11px;
+    font-weight: bold;
+    width: 119%;
+    font-family: 'Fraunces', serif;
+    
+
+}
+
+#gat4:hover{
+    text-decoration: underline;
+}
+#gat3:hover{
+    text-decoration: underline;
+}
+#gat2:hover{
+    text-decoration: underline;
+}
+#yax{
+    
+    font-size: 14px;
+    font-weight: light;
+    padding-left: 2px;
+    font-family: 'Barlow', sans-serif;
+    gap: 10px;
+
+}
+
+#wax{
+    font-family: serif;
+    text-align: center;
+    padding-left: 185px;
+    font-family: 'Fraunces', serif; 
+}
+#items{
+    font-family: 'Barlow', sans-serif;
+    font-size: 14px;
+    gap: 10px;
+}
+
+#para1{
+    padding-left: 180px;
+    font-size: 15px;
+    font-family: 'Barlow', sans-serif;
+    color: rgb(150, 157, 164);
+}
+
+#para2{
+    padding-left: 180px;
+    font-size: 15px; 
+    font-family: 'Barlow', sans-serif;
+    color: rgb(150, 157, 164);
+}
+#wax2{
+    font-family: serif;
+    text-align: center;
+    padding-left: 185px; 
+    font-family: 'Fraunces', serif;
+}
+
+
+#row1{
+    justify-content: center;
+    align-items: center;
+}
+#imgdiv{
+    width: 50%;
+    background-size: cover;
+    background-image: url(./images/image-transform.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#textdiv{
+    width: 50%;
+
+}
+#textdiv h3{
+    font-family: 'Fraunces', serif;
+    font-size: 45px;
+    padding-left: 180px;
+    line-height: 100%;
+}
+#row2{
+    justify-content: center;
+    align-items: center;  
+}
+#imgdiv2{
+   width: 50%;
+   background-size: cover;
+   background-image: url(./images/image-stand-out.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+
+}
+#textdiv2{
+    width: 50%;
+}
+#textdiv2 h3{
+    font-family: 'Fraunces', serif;
+    font-size: 45px;
+    padding-left: 180px;
+    line-height: 100%;
+}
+#imgdiv3{
+    width: 50%;
+    background-image: url(./images/image-graphic-design.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+#imgdiv4{
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(./images/image-photography.jpg);
+    background-size: cover;
+}
+#row3{
+    position: relative;
+    
+    
+}
+#graph{
+    position: absolute;
+    top: 316%;
+    right: 66%;
+    
+}
+#photo{
+    position: absolute;
+    top: 316%;
+    left: 66%;
+}
+
+.rounded-circle{
+    width: 17%;
+}
+#sec4{
+   background-color:  hsl(0, 0%, 100%); 
+}
+#sec4 p{
+    font-family: 'Barlow', sans-serif;
+    
+}
+
+#sec4header{
+    font-family: 'Fraunces', serif; 
+    letter-spacing: 2px;
+    margin-top: 120px;
+    
+}
+#cardnames{
+    font-family: 'Fraunces', serif;
+     font-weight: bolder; 
+     color:hsl(212, 27%, 19%) ;
+
+}
+#graph h3{
+    font-family: 'Fraunces', serif;
+    font-size: 25px;
+   color : hsl(167, 40%, 24%);
+
+    
+}
+#photo h3{
+    font-family: 'Fraunces', serif;
+    font-size: 25px;
+    color: hsl(198, 62%, 26%);
+
+}
+
+footer{
+    background-color: rgb(111, 177, 154);
+    padding-top: 60px;
+   
+}
+
+.icons{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+#card{
+    padding-bottom: 70px;
+}
+
+#items a{
+   color : hsl(167, 40%, 24%);
+}
+
+#footz{
+    font-family: 'Rubik', sans-serif;
+    font-size: 23px;
+    color : hsl(167, 40%, 24%);
+    
+}
+
+#photo p{
+    font-family: 'Barlow', sans-serif;
+    font-size: 15px;
+    color: hsl(198, 62%, 26%);
+
+}
+#graph p{
+    font-family: 'Barlow', sans-serif;
+    font-size: 15px;
+    color : hsl(167, 40%, 24%);
+}
+#cardptags{
+    font-size: 12.6px;
+    color: rgb(163, 169, 174);
+}
+#cardbodyp{
+    font-size: 15px;
+}
+#footernavs:hover{
+text-decoration: underline;
+}
+#footernavs2:hover{
+text-decoration: underline;
+}
+#footernavs3:hover{
+text-decoration: underline;
+}
+
+}
+@media (max-width: 1440px){
+    #yax{
+        /* padding-left: 120px; */
+        padding-right: 200px;
+    } 
+    #kax{
+        right: 34%;
+        top: 25%;
+    }
+    #arrow{
+        left: 42%;
+    }
+    #hdr{
+        padding-left: 60px;
+    }
+    header{
+        background-position: start;
+        background-size: cover;
+        height: 100vh;
+        max-width: 100%;
+        background-repeat: no-repeat;
+    
+    
+    }
+}
+
+
